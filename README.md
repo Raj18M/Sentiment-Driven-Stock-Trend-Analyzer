@@ -67,6 +67,8 @@ It’s ideal for finance students, ML enthusiasts, or anyone interested in under
 ## 📌 Example Use Case
 
 Track how public sentiment around a company influences its stock trend, detect unexpected price jumps, and link them to key news events — all without needing full article access.
+As an added bonus same analysis was conducted by just replacing the said adjustments (mentioning the stock/commodity name and it's respective ticker symbol). The analysis is on
+Natural Gas, showing the range of applicability of this methodology to even commodities market.
 
 ---
 
