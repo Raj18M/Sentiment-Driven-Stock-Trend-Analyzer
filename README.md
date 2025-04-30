@@ -35,9 +35,9 @@ This project provides a generalized Python-based pipeline for conducting sentime
 ## 🚀 How to Use
 
 1. Clone this repository or open the `.ipynb`.
-2. Replace the default stock ticker (e.g., `'RELIANCE.NS'`) with your desired stock's ticker.
-3. Run all cells from top to bottom.
-4. Output files will be saved to your Google Drive (Excel format) with:
+2. Replace the default stock ticker (e.g., `'RELIANCE.NS'`) with your desired stock's ticker First chunk of code where you define replace [reliance] then change the ticker symbol before executing yfinance library.
+4. Run all cells from top to bottom.
+5. Output files will be saved to your Google Drive (Excel format) with:
    - News + sentiment data
    - Mapped stock prices and trends
    - Anomaly-marked datasets
